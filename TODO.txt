@@ -4,3 +4,4 @@
 - Hands-On Exercise
 - Pulling from a remote source
 - Minor note about the differences between Git, GitHub, and GitHub Desktop
+- Messing everything up!
